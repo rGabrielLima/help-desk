@@ -1,0 +1,1 @@
+Projeto bastante hardcode. Aprendendo em curso.
